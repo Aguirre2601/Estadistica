@@ -8,31 +8,31 @@ El sistema se divide en dos módulos especializados según la naturaleza de la m
 
 1. Módulo de Datos Desagrupados
 
-Ideal para muestras pequeñas donde cada observación es independiente.
+        Ideal para muestras pequeñas donde cada observación es independiente.
 
-  Media Aritmética ($\bar{x}$): Cálculo del promedio simple de la muestra.
+        Media Aritmética ($\bar{x}$): Cálculo del promedio simple de la muestra.
   
-  Mediana ($\tilde{x}$): Identificación del valor central tras el ordenamiento automático de los datos.
+        Mediana ($\tilde{x}$): Identificación del valor central tras el ordenamiento automático de los datos.
   
-  Moda ($Mo$): Determinación del valor o valores con mayor frecuencia de aparición.
+        Moda ($Mo$): Determinación del valor o valores con mayor frecuencia de aparición.
   
 2. Módulo de Datos Agrupados
 
-Diseñado para manejar grandes volúmenes de datos organizados en tablas de frecuencias por intervalos.
+        Diseñado para manejar grandes volúmenes de datos organizados en tablas de frecuencias por intervalos.
 
-  Generación de Tabla de Frecuencias: Gestión de límites (inferior/superior), marcas de clase ($x_i$) y frecuencias absolutas ($f_i$).
+        Generación de Tabla de Frecuencias: Gestión de límites (inferior/superior), marcas de clase ($x_i$) y frecuencias absolutas ($f_i$).
   
-  Cálculo de Parámetros: * Media Agrupada: Basada en el sumatorio de marcas de clase por frecuencia.
+        Cálculo de Parámetros: * Media Agrupada: Basada en el sumatorio de marcas de clase por frecuencia.
   
-  Mediana y Moda Agrupada: Implementación de fórmulas de interpolación lineal basadas en las clases mediana y modal.
+        Mediana y Moda Agrupada: Implementación de fórmulas de interpolación lineal basadas en las clases mediana y modal.
 
 ## 🛠️ Detalles Técnicos
 
 Arquitectura y Diseño
 
--Lógica de Cálculo Separada: La clase Calcula centraliza todas las operaciones matemáticas, permitiendo que las interfaces (FormDatosD y FormDatosAgurp) se encarguen exclusivamente de la interacción con el usuario.
+  -Lógica de Cálculo Separada: La clase Calcula centraliza todas las operaciones matemáticas, permitiendo que las interfaces (FormDatosD y FormDatosAgurp) se encarguen exclusivamente de la interacción con el usuario.
 
--Validación de Datos: Incluye controles para asegurar que las entradas sean numéricas y que los intervalos en datos agrupados mantengan coherencia lógica.
+  -Validación de Datos: Incluye controles para asegurar que las entradas sean numéricas y que los intervalos en datos agrupados mantengan coherencia lógica.
 
 Fórmulas Implementadas
 
