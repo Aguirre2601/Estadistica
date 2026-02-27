@@ -1,0 +1,27 @@
+E:\TP_1_POO\CapaDiseño\bin\Debug\CapaDiseño.dll
+E:\TP_1_POO\CapaDiseño\bin\Debug\CapaDiseño.pdb
+E:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.csproj.AssemblyReference.cache
+E:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.csproj.CoreCompileInputs.cache
+E:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.dll
+E:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.pdb
+D:\TP_1_POO\CapaDiseño\bin\Debug\CapaDiseño.dll
+D:\TP_1_POO\CapaDiseño\bin\Debug\CapaDiseño.pdb
+D:\TP_1_POO\CapaDiseño\bin\Debug\CapaCalculadora.dll
+D:\TP_1_POO\CapaDiseño\bin\Debug\CapaCalculadora.pdb
+D:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.csproj.AssemblyReference.cache
+D:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.csproj.CoreCompileInputs.cache
+D:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.csproj.Up2Date
+D:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.dll
+D:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.pdb
+E:\TP_1_POO\CapaDiseño\bin\Debug\CapaCalculadora.dll
+E:\TP_1_POO\CapaDiseño\bin\Debug\CapaCalculadora.pdb
+E:\TP_1_POO\CapaDiseño\obj\Debug\CapaDiseño.csproj.Up2Date
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\bin\Debug\CapaDiseño.dll
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\bin\Debug\CapaCalculadora.dll
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\bin\Debug\CapaCalculadora.pdb
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\obj\Debug\CapaDiseño.csproj.AssemblyReference.cache
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\obj\Debug\CapaDiseño.csproj.CoreCompileInputs.cache
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\obj\Debug\CapaDiseño.csproj.Up2Date
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\obj\Debug\CapaDiseño.dll
+C:\AguirreProyectos\2023-2024\Calculador de Estadisticas\CapaDiseño\obj\Debug\CapaDiseño.pdb
