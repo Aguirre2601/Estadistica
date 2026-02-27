@@ -24,7 +24,7 @@ Diseñado para manejar grandes volúmenes de datos organizados en tablas de frec
   
   Cálculo de Parámetros: * Media Agrupada: Basada en el sumatorio de marcas de clase por frecuencia.
   
-      Mediana y Moda Agrupada: Implementación de fórmulas de interpolación lineal basadas en las clases mediana y modal.
+  Mediana y Moda Agrupada: Implementación de fórmulas de interpolación lineal basadas en las clases mediana y modal.
 
 ## 🛠️ Detalles Técnicos
 
@@ -38,9 +38,9 @@ Fórmulas Implementadas
 
 El motor de cálculo utiliza las siguientes expresiones matemáticas:
 
-  Media Agrupada: $$\bar{x} = \frac{\sum (x_i \cdot f_i)}{n}$
+    Media Agrupada: $$\bar{x} = \frac{\sum (x_i \cdot f_i)}{n}$
   
-  $Moda Agrupada: $$Mo = L_i + \left( \frac{d_1}{d_1 + d_2} \right) \cdot A$$
+    $Moda Agrupada: $$Mo = L_i + \left( \frac{d_1}{d_1 + d_2} \right) \cdot A$$
   
 ## 🚀 Instalación y Uso
 
